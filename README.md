@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/abhay150-code/100DayCoding/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhay150-code/100DayCoding/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/abhay150-code/100DayCoding/tree/master/0039-combination-sum) |
 | [0283-move-zeroes](https://github.com/abhay150-code/100DayCoding/tree/master/0283-move-zeroes) |
 | [0733-flood-fill](https://github.com/abhay150-code/100DayCoding/tree/master/0733-flood-fill) |
 ## Hash Table
@@ -43,4 +44,8 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhay150-code/100DayCoding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/abhay150-code/100DayCoding/tree/master/0283-move-zeroes) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/abhay150-code/100DayCoding/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
