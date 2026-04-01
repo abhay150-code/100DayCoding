@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/abhay150-code/100DayCoding/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhay150-code/100DayCoding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/abhay150-code/100DayCoding/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/abhay150-code/100DayCoding/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/abhay150-code/100DayCoding/tree/master/0283-move-zeroes) |
 | [0733-flood-fill](https://github.com/abhay150-code/100DayCoding/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/abhay150-code/100DayCoding/tree/master/0867-transpose-matrix) |
@@ -50,8 +51,13 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/abhay150-code/100DayCoding/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/abhay150-code/100DayCoding/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/abhay150-code/100DayCoding/tree/master/0867-transpose-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/abhay150-code/100DayCoding/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
