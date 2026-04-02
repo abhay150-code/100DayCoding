@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhay150-code/100DayCoding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/abhay150-code/100DayCoding/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/abhay150-code/100DayCoding/tree/master/0078-subsets) |
+| [0209-minimum-size-subarray-sum](https://github.com/abhay150-code/100DayCoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/abhay150-code/100DayCoding/tree/master/0283-move-zeroes) |
 | [0733-flood-fill](https://github.com/abhay150-code/100DayCoding/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/abhay150-code/100DayCoding/tree/master/0867-transpose-matrix) |
@@ -60,4 +61,16 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/abhay150-code/100DayCoding/tree/master/0078-subsets) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/abhay150-code/100DayCoding/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/abhay150-code/100DayCoding/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/abhay150-code/100DayCoding/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
