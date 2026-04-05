@@ -7,15 +7,8 @@ class Solution:
         for i in range(m):
             res.append([0] * n)
         
-        def solve(i, j):
-            if i == n:
-                return
-            if j == m:
-                solve(i + 1, 0)
-                return
-            
-            res[j][i] = matrix[i][j]
-            solve(i, j + 1)
+        for i in range(n):
+            for j in range(m):
+                res[j][i] = matrix[i][j]
         
-        solve(0, 0)
         return res
