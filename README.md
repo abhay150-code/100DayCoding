@@ -10,6 +10,7 @@
 | [0078-subsets](https://github.com/abhay150-code/100DayCoding/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhay150-code/100DayCoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/abhay150-code/100DayCoding/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/abhay150-code/100DayCoding/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/abhay150-code/100DayCoding/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/abhay150-code/100DayCoding/tree/master/0867-transpose-matrix) |
 ## Hash Table
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhay150-code/100DayCoding/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/abhay150-code/100DayCoding/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
