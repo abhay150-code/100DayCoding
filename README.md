@@ -79,4 +79,12 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhay150-code/100DayCoding/tree/master/0209-minimum-size-subarray-sum) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/abhay150-code/100DayCoding/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/abhay150-code/100DayCoding/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
