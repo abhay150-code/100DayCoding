@@ -1,17 +1,17 @@
 class Solution:
-    def solve(self, r, c, image, oldcolor, newcolor):
-        if r < 0 or c < 0 or r >= len(image) or c >= len(image[0]):
+    def solve(self, i, j, image, oldcolor, newcolor):
+        if i < 0 or j < 0 or i >= len(image) or j >= len(image[0]):
             return
 
-        if image[r][c] != oldcolor:
+        if image[i][j] != oldcolor:
             return
         
-        image[r][c] = newcolor
+        image[i][j] = newcolor
 
-        self.solve(r - 1, c, image, oldcolor, newcolor)
-        self.solve(r + 1, c, image, oldcolor, newcolor)
-        self.solve(r, c - 1, image, oldcolor, newcolor)
-        self.solve(r, c + 1, image, oldcolor, newcolor)
+        self.solve(i - 1, j, image, oldcolor, newcolor)
+        self.solve(i + 1, j, image, oldcolor, newcolor)
+        self.solve(i, j - 1, image, oldcolor, newcolor)
+        self.solve(i, j + 1, image, oldcolor, newcolor)
 
     def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
         oldcolor = image[sr][sc]
