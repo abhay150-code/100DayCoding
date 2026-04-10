@@ -15,10 +15,12 @@
 | [0704-binary-search](https://github.com/abhay150-code/100DayCoding/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/abhay150-code/100DayCoding/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/abhay150-code/100DayCoding/tree/master/0867-transpose-matrix) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abhay150-code/100DayCoding/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhay150-code/100DayCoding/tree/master/0001-two-sum) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abhay150-code/100DayCoding/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Stack
 |  |
 | ------- |
