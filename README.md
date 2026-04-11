@@ -63,10 +63,12 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abhay150-code/100DayCoding/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/abhay150-code/100DayCoding/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abhay150-code/100DayCoding/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/abhay150-code/100DayCoding/tree/master/0078-subsets) |
 ## Binary Search
 |  |
@@ -91,4 +93,12 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/abhay150-code/100DayCoding/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/abhay150-code/100DayCoding/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/abhay150-code/100DayCoding/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
