@@ -101,4 +101,9 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abhay150-code/100DayCoding/tree/master/0067-add-binary) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/abhay150-code/100DayCoding/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/abhay150-code/100DayCoding/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 <!---LeetCode Topics End-->
