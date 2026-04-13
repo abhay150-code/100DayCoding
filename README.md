@@ -15,6 +15,7 @@
 | [0704-binary-search](https://github.com/abhay150-code/100DayCoding/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/abhay150-code/100DayCoding/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/abhay150-code/100DayCoding/tree/master/0867-transpose-matrix) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/abhay150-code/100DayCoding/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abhay150-code/100DayCoding/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/abhay150-code/100DayCoding/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
@@ -77,6 +78,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhay150-code/100DayCoding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhay150-code/100DayCoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/abhay150-code/100DayCoding/tree/master/0704-binary-search) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/abhay150-code/100DayCoding/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sliding Window
 |  |
 | ------- |
@@ -106,4 +108,9 @@
 |  |
 | ------- |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/abhay150-code/100DayCoding/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/abhay150-code/100DayCoding/tree/master/3661-maximum-walls-destroyed-by-robots) |
+## Sorting
+|  |
+| ------- |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/abhay150-code/100DayCoding/tree/master/3661-maximum-walls-destroyed-by-robots) |
 <!---LeetCode Topics End-->
