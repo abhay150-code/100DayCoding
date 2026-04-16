@@ -74,6 +74,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/abhay150-code/100DayCoding/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/abhay150-code/100DayCoding/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/abhay150-code/100DayCoding/tree/master/0191-number-of-1-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,4 +120,8 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhay150-code/100DayCoding/tree/master/0088-merge-sorted-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/abhay150-code/100DayCoding/tree/master/3661-maximum-walls-destroyed-by-robots) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/abhay150-code/100DayCoding/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
