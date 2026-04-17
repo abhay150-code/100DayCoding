@@ -28,6 +28,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhay150-code/100DayCoding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/abhay150-code/100DayCoding/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/abhay150-code/100DayCoding/tree/master/0225-implement-stack-using-queues) |
 ## Design
@@ -42,6 +43,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhay150-code/100DayCoding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0733-flood-fill](https://github.com/abhay150-code/100DayCoding/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -124,4 +126,12 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/abhay150-code/100DayCoding/tree/master/0191-number-of-1-bits) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhay150-code/100DayCoding/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhay150-code/100DayCoding/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
