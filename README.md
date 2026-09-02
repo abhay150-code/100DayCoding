@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhay150-code/100DayCoding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhay150-code/100DayCoding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/abhay150-code/100DayCoding/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/abhay150-code/100DayCoding/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/abhay150-code/100DayCoding/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/abhay150-code/100DayCoding/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhay150-code/100DayCoding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/abhay150-code/100DayCoding/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/abhay150-code/100DayCoding/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/abhay150-code/100DayCoding/tree/master/0078-subsets) |
 ## Simulation
 |  |
