@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/abhay150-code/100DayCoding/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhay150-code/100DayCoding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhay150-code/100DayCoding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/abhay150-code/100DayCoding/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/abhay150-code/100DayCoding/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhay150-code/100DayCoding/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/abhay150-code/100DayCoding/tree/master/0078-subsets) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhay150-code/100DayCoding/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/abhay150-code/100DayCoding/tree/master/0036-valid-sudoku) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abhay150-code/100DayCoding/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/abhay150-code/100DayCoding/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Stack
@@ -60,6 +62,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/abhay150-code/100DayCoding/tree/master/0036-valid-sudoku) |
 | [0733-flood-fill](https://github.com/abhay150-code/100DayCoding/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/abhay150-code/100DayCoding/tree/master/0867-transpose-matrix) |
 ## Two Pointers
