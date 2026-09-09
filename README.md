@@ -12,6 +12,7 @@
 | [0040-combination-sum-ii](https://github.com/abhay150-code/100DayCoding/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/abhay150-code/100DayCoding/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/abhay150-code/100DayCoding/tree/master/0088-merge-sorted-array) |
+| [0140-word-break-ii](https://github.com/abhay150-code/100DayCoding/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhay150-code/100DayCoding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhay150-code/100DayCoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/abhay150-code/100DayCoding/tree/master/0216-combination-sum-iii) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/abhay150-code/100DayCoding/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/abhay150-code/100DayCoding/tree/master/0036-valid-sudoku) |
+| [0140-word-break-ii](https://github.com/abhay150-code/100DayCoding/tree/master/0140-word-break-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abhay150-code/100DayCoding/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/abhay150-code/100DayCoding/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Stack
@@ -78,6 +80,7 @@
 | [0039-combination-sum](https://github.com/abhay150-code/100DayCoding/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhay150-code/100DayCoding/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/abhay150-code/100DayCoding/tree/master/0078-subsets) |
+| [0140-word-break-ii](https://github.com/abhay150-code/100DayCoding/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/abhay150-code/100DayCoding/tree/master/0216-combination-sum-iii) |
 ## Simulation
 |  |
@@ -124,10 +127,12 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/abhay150-code/100DayCoding/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/abhay150-code/100DayCoding/tree/master/0067-add-binary) |
+| [0140-word-break-ii](https://github.com/abhay150-code/100DayCoding/tree/master/0140-word-break-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/abhay150-code/100DayCoding/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/abhay150-code/100DayCoding/tree/master/0140-word-break-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/abhay150-code/100DayCoding/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/abhay150-code/100DayCoding/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sorting
@@ -153,4 +158,12 @@
 | [0100-same-tree](https://github.com/abhay150-code/100DayCoding/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhay150-code/100DayCoding/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhay150-code/100DayCoding/tree/master/0104-maximum-depth-of-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/abhay150-code/100DayCoding/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/abhay150-code/100DayCoding/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
